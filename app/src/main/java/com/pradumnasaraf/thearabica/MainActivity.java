@@ -25,7 +25,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-
         Button minus1 = findViewById(R.id.minusButton1);
         Button minus2 = findViewById(R.id.minusButton2);
         Button minus3 = findViewById(R.id.minusButton3);
